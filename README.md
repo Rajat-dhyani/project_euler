@@ -1,4 +1,4 @@
-This is a mini-project for solving some problems from project euler
+This is a mini-project for solving some problems from project : [view]( https://rajat-dhyani.github.io/project_euler/)
 .
 .
 .
